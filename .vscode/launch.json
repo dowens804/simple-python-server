@@ -1,0 +1,29 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "python client side",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:8000"
+    },
+    {
+      "name": "Python: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    }
+  ],
+
+  "compounds": [
+    {
+      "name": "Start Python Server",
+      "configurations": ["Python: Current File", "python client side"],
+      "stopAll": true
+    }
+  ]
+}
