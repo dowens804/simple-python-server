@@ -1,0 +1,379 @@
+{
+    "lastUpdate": "2026-05-20 19:33:46.891382",
+  "cards": {
+    "A3-038": {
+      "cardId": "A3-038",
+      "cardCount": 1,
+      "fullCardInfo": {
+        "category": "Pokemon",
+        "id": "A3-038",
+        "name": "Alolan Sandshrew",
+        "illustrator": "ryoma uratsuka",
+        "image": "https://assets.tcgdex.net/en/tcgp/A3/038",
+        "rarity": "One Diamond",
+        "description": "Life on mountains covered with deep snow has granted this Pok�mon a body of ice that's as hard as steel.",
+        "dexId": [
+          27
+        ],
+        "hp": 60,
+        "types": [
+          "Water"
+        ],
+        "evolveFrom": "",
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Water"
+            ],
+            "name": "Scratch",
+            "damage": 20
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Metal",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "item": []
+      }
+    },
+    "A3-044": {
+      "cardId": "A3-044",
+      "cardCount": 1,
+      "fullCardInfo": {
+        "category": "Pokemon",
+        "id": "A3-044",
+        "name": "Lapras",
+        "illustrator": "Hitoshi Ariga",
+        "image": "https://assets.tcgdex.net/en/tcgp/A3/044",
+        "rarity": "Two Diamond",
+        "description": "A smart and kindhearted Pok�mon, it glides across the surface of the sea while its beautiful song echoes around it.",
+        "dexId": [
+          131
+        ],
+        "hp": 110,
+        "types": [
+          "Water"
+        ],
+        "evolveFrom": "",
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Water",
+              "Water",
+              "Colorless"
+            ],
+            "name": "Surf",
+            "damage": 70
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Lightning",
+            "value": "+20"
+          }
+        ],
+        "retreat": 2,
+        "item": []
+      }
+    },
+    "B1a-011": {
+      "cardId": "B1a-011",
+      "cardCount": 3,
+      "fullCardInfo": {
+        "category": "Pokemon",
+        "id": "B1a-011",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/tcgp/B1a/011",
+        "localId": "011",
+        "name": "Charmander",
+        "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 69,
+            "total": 103
+          },
+          "id": "B1a",
+          "name": "Crimson Blaze"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          4
+        ],
+        "hp": 60,
+        "types": [
+          "Fire"
+        ],
+        "description": "From the time it is born, a flame burns at the tip\nof its tail. Its life would end if the flame were to\ngo out.",
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Fire",
+              "Colorless"
+            ],
+            "name": "Bite",
+            "damage": 40
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Water",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "updated": "2026-04-03T13:38:57+01:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      }
+    },"B1a-012": {
+      "cardId": "B1a-012",
+      "cardCount": 1,
+      "fullCardInfo": {
+        "category": "Pokemon",
+        "id": "B1a-012",
+        "illustrator": "DOM",
+        "image": "https://assets.tcgdex.net/en/tcgp/B1a/012",
+        "localId": "012",
+        "name": "Charmeleon",
+        "rarity": "Two Diamond",
+        "set": {
+          "cardCount": {
+            "official": 69,
+            "total": 103
+          },
+          "id": "B1a",
+          "name": "Crimson Blaze"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          5
+        ],
+        "hp": 80,
+        "types": [
+          "Fire"
+        ],
+        "evolveFrom": "Charmander",
+        "description": "If it becomes agitated during battle, it spouts\nintense flames, incinerating its surroundings.",
+        "stage": "Stage1",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Ignition",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon."
+          }
+        ],
+        "attacks": [
+          {
+            "cost": [
+              "Fire",
+              "Fire",
+              "Colorless"
+            ],
+            "name": "Steady Firebreathing",
+            "damage": 50
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Water",
+            "value": "+20"
+          }
+        ],
+        "retreat": 2,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "updated": "2026-04-03T13:38:57+01:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      }
+    },
+    "B1a-070": {
+      "cardId": "B1a-070",
+      "cardCount": 1,
+      "fullCardInfo": {
+        "category": "Pokemon",
+        "id": "B1a-070",
+        "illustrator": "KEIICHIRO ITO",
+        "image": "https://assets.tcgdex.net/en/tcgp/B1a/070",
+        "localId": "070",
+        "name": "Ariados",
+        "rarity": "One Star",
+        "set": {
+          "cardCount": {
+            "official": 69,
+            "total": 103
+          },
+          "id": "B1a",
+          "name": "Crimson Blaze"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          168
+        ],
+        "hp": 90,
+        "types": [
+          "Grass"
+        ],
+        "evolveFrom": "Spinarak",
+        "description": "It spews threads from its mouth to catch its\nprey. When night falls, it leaves its web to go\nhunt aggressively.",
+        "stage": "Stage1",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Trap Territory",
+            "effect": "Your opponent's Active Pokémon's Retreat Cost is 1 more."
+          }
+        ],
+        "attacks": [
+          {
+            "cost": [
+              "Grass"
+            ],
+            "name": "Pierce",
+            "damage": 30
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fire",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "updated": "2026-04-03T13:38:57+01:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      }
+    },
+    "A3b-003": {
+      "cardId": "A3b-003",
+      "cardCount": 1,
+      "fullCardInfo": {
+        "category": "Pokemon",
+        "id": "A3b-003",
+        "illustrator": "Yuka Morii",
+        "image": "https://assets.tcgdex.net/en/tcgp/A3b/003",
+        "localId": "003",
+        "name": "Bounsweet",
+        "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 69,
+            "total": 107
+          },
+          "id": "A3b",
+          "name": "Eevee Grove"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          761
+        ],
+        "hp": 60,
+        "types": [
+          "Grass"
+        ],
+        "description": "Its sweat is sweet, like syrup made from boiled-down\nfruit. Because of this, Bounsweet was highly valued in\nthe past, when sweeteners were scarce.",
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Flop",
+            "damage": 10
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fire",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
+      }
+    },
+  }
+}

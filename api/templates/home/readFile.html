@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1>{% block title %}Read a file test{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+
+<p>Trying to read a file</p>
+
+<div>
+    <p>Total Num of cards : {{locals.count}} </p>
+    
+    <p>First Card Name : {{locals.name}}</p>
+    <p>Fist Card Type : {{locals.category}}</p>
+    <p>First Card Image : </p>
+    <img />
+</div>
+
+
+{% endblock %}
