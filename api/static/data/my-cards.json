@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-20 19:33:46.891382",
+  "lastUpdate": "2026-06-27 14:19:18.838638",
   "cards": {
     "A3-001": {
       "cardId": "A3-001",
@@ -7,11 +7,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-001",
-        "name": "Exeggcute",
         "illustrator": "HYOGONOSUKE",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/001",
+        "localId": "001",
+        "name": "Exeggcute",
         "rarity": "One Diamond",
-        "description": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           102
         ],
@@ -19,7 +42,7 @@
         "types": [
           "Grass"
         ],
-        "evolveFrom": "",
+        "description": "Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
         "stage": "Basic",
         "attacks": [
           {
@@ -38,7 +61,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-004": {
@@ -47,11 +84,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-004",
-        "name": "Masquerain",
         "illustrator": "Kanako Eo",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/004",
+        "localId": "004",
+        "name": "Masquerain",
         "rarity": "Two Diamond",
-        "description": "It flaps its four wings to hover and fly freely in any direction�to and fro and sideways.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           284
         ],
@@ -60,6 +120,7 @@
           "Grass"
         ],
         "evolveFrom": "Surskit",
+        "description": "It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -77,7 +138,25 @@
           }
         ],
         "retreat": 0,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-005": {
@@ -86,11 +165,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-005",
-        "name": "Maractus",
         "illustrator": "Kagemaru Himeno",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/005",
+        "localId": "005",
+        "name": "Maractus",
         "rarity": "One Diamond",
-        "description": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pok�mon and making them fly off in a hurry.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           556
         ],
@@ -98,7 +200,7 @@
         "types": [
           "Grass"
         ],
-        "evolveFrom": "",
+        "description": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
         "stage": "Basic",
         "attacks": [
           {
@@ -117,7 +219,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-006": {
@@ -126,11 +242,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-006",
-        "name": "Karrablast",
         "illustrator": "OOYAMA",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/006",
+        "localId": "006",
+        "name": "Karrablast",
         "rarity": "One Diamond",
-        "description": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pok�mon to evolve.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           588
         ],
@@ -138,7 +277,7 @@
         "types": [
           "Grass"
         ],
-        "evolveFrom": "",
+        "description": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
         "stage": "Basic",
         "attacks": [
           {
@@ -156,7 +295,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-010": {
@@ -165,13 +322,74 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-010",
-        "name": "Rowlet",
         "illustrator": "Saya Tsuruta",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/010",
+        "localId": "010",
+        "name": "Rowlet",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          722
+        ],
+        "hp": 60,
+        "types": [
+          "Grass"
+        ],
         "description": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Grass"
+            ],
+            "name": "Skill Dive",
+            "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fire",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-011": {
@@ -180,11 +398,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-011",
-        "name": "Dartrix",
         "illustrator": "Mizue",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/011",
+        "localId": "011",
+        "name": "Dartrix",
         "rarity": "Two Diamond",
-        "description": "This narcissistic Pok�mon is a clean freak. If you don't groom it diligently, it may stop listening to you.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           723
         ],
@@ -193,6 +434,7 @@
           "Grass"
         ],
         "evolveFrom": "Rowlet",
+        "description": "This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it may stop listening to you.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -210,7 +452,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-013": {
@@ -219,11 +475,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-013",
-        "name": "Grubbin",
         "illustrator": "Yuka Morii",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/013",
+        "localId": "013",
+        "name": "Grubbin",
         "rarity": "One Diamond",
-        "description": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           736
         ],
@@ -231,7 +510,7 @@
         "types": [
           "Grass"
         ],
-        "evolveFrom": "",
+        "description": "Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",
         "stage": "Basic",
         "attacks": [
           {
@@ -249,7 +528,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-014": {
@@ -258,11 +551,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-014",
-        "name": "Fomantis",
         "illustrator": "Kagemaru Himeno",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/014",
+        "localId": "014",
+        "name": "Fomantis",
         "rarity": "One Diamond",
-        "description": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           753
         ],
@@ -270,7 +586,7 @@
         "types": [
           "Grass"
         ],
-        "evolveFrom": "",
+        "description": "Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.",
         "stage": "Basic",
         "attacks": [
           {
@@ -288,7 +604,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-015": {
@@ -297,13 +631,79 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-015",
-        "name": "Lurantis",
         "illustrator": "AKIRA EGAWA",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/015",
+        "localId": "015",
+        "name": "Lurantis",
         "rarity": "Two Diamond",
-        "description": "By masquerading as a bug Pok�mon, it lowers the guard of actual bug Pok�mon lured in by a scent of sweet flowers. Its sickles bring them down.",
-        "effect": "",
-        "trainerType": ""
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          754
+        ],
+        "hp": 90,
+        "types": [
+          "Grass"
+        ],
+        "evolveFrom": "Fomantis",
+        "description": "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Grass"
+            ],
+            "name": "Petal Blizzard",
+            "effect": "This attack does 20 damage to each of your opponent's Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fire",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-016": {
@@ -312,11 +712,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-016",
-        "name": "Morelull",
         "illustrator": "You Iribi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/016",
+        "localId": "016",
+        "name": "Morelull",
         "rarity": "One Diamond",
-        "description": "Pok�mon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           755
         ],
@@ -324,7 +747,7 @@
         "types": [
           "Grass"
         ],
-        "evolveFrom": "",
+        "description": "Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.",
         "stage": "Basic",
         "attacks": [
           {
@@ -342,7 +765,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-017": {
@@ -351,11 +788,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-017",
-        "name": "Shiinotic",
         "illustrator": "Suwama Chiaki",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/017",
+        "localId": "017",
+        "name": "Shiinotic",
         "rarity": "Two Diamond",
-        "description": "Its flickering spores lure in prey and put them to sleep. Once this Pok�mon has its prey snoozing, it drains their vitality with its fingertips.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           756
         ],
@@ -364,6 +824,7 @@
           "Grass"
         ],
         "evolveFrom": "Morelull",
+        "description": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -372,6 +833,7 @@
               "Colorless"
             ],
             "name": "Flickering Light",
+            "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
             "damage": 50
           }
         ],
@@ -382,7 +844,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-025": {
@@ -391,11 +867,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-025",
-        "name": "Growlithe",
         "illustrator": "Naoyo Kimura",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/025",
+        "localId": "025",
+        "name": "Growlithe",
         "rarity": "One Diamond",
-        "description": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           58
         ],
@@ -403,7 +902,7 @@
         "types": [
           "Fire"
         ],
-        "evolveFrom": "",
+        "description": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
         "stage": "Basic",
         "attacks": [
           {
@@ -422,7 +921,25 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-028": {
@@ -431,11 +948,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-028",
-        "name": "Fletchinder",
         "illustrator": "Mina Nakai",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/028",
+        "localId": "028",
+        "name": "Fletchinder",
         "rarity": "One Diamond",
-        "description": "Fletchinder scatters embers in tall grass where bug Pok�mon might be hiding and then catches them as they come leaping out.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           662
         ],
@@ -444,6 +984,7 @@
           "Fire"
         ],
         "evolveFrom": "Fletchling",
+        "description": "Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -461,7 +1002,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-030": {
@@ -470,11 +1025,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-030",
-        "name": "Litten",
         "illustrator": "Akira Komayama",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/030",
+        "localId": "030",
+        "name": "Litten",
         "rarity": "One Diamond",
-        "description": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           725
         ],
@@ -482,7 +1060,7 @@
         "types": [
           "Fire"
         ],
-        "evolveFrom": "",
+        "description": "If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
         "stage": "Basic",
         "attacks": [
           {
@@ -490,6 +1068,7 @@
               "Fire"
             ],
             "name": "Heat Tackle",
+            "effect": "This Pokémon also does 10 damage to itself.",
             "damage": 30
           }
         ],
@@ -500,7 +1079,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-032": {
@@ -509,11 +1102,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-032",
-        "name": "Torracat",
         "illustrator": "tetsuya koizumi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/032",
+        "localId": "032",
+        "name": "Torracat",
         "rarity": "Two Diamond",
-        "description": "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pok�mon, so its Trainer gets covered in scratches.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           726
         ],
@@ -522,6 +1138,7 @@
           "Fire"
         ],
         "evolveFrom": "Litten",
+        "description": "Torracat will let its Trainer coddle it once they've grown close, but it's a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -529,6 +1146,7 @@
               "Fire"
             ],
             "name": "Heat Tackle",
+            "effect": "This Pokémon also does 10 damage to itself.",
             "damage": 40
           }
         ],
@@ -539,7 +1157,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-038": {
@@ -548,11 +1180,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-038",
-        "name": "Alolan Sandshrew",
         "illustrator": "ryoma uratsuka",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/038",
+        "localId": "038",
+        "name": "Alolan Sandshrew",
         "rarity": "One Diamond",
-        "description": "Life on mountains covered with deep snow has granted this Pok�mon a body of ice that's as hard as steel.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           27
         ],
@@ -560,7 +1215,7 @@
         "types": [
           "Water"
         ],
-        "evolveFrom": "",
+        "description": "Life on mountains covered with deep snow has granted this Pokémon a body of ice that's as hard as steel.",
         "stage": "Basic",
         "attacks": [
           {
@@ -578,7 +1233,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-039": {
@@ -587,11 +1260,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-039",
-        "name": "Alolan Sandslash",
         "illustrator": "Hasuno",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/039",
+        "localId": "039",
+        "name": "Alolan Sandslash",
         "rarity": "Two Diamond",
-        "description": "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pok�mon.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           28
         ],
@@ -600,6 +1296,7 @@
           "Water"
         ],
         "evolveFrom": "Alolan Sandshrew",
+        "description": "It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -607,6 +1304,7 @@
               "Water"
             ],
             "name": "Spike Armor",
+            "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.",
             "damage": 20
           }
         ],
@@ -617,7 +1315,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-040": {
@@ -626,13 +1342,74 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-040",
-        "name": "Alolan Vulpix",
         "illustrator": "You Iribi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/040",
+        "localId": "040",
+        "name": "Alolan Vulpix",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          37
+        ],
+        "hp": 60,
+        "types": [
+          "Water"
+        ],
         "description": "After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Water"
+            ],
+            "name": "Call Forth Cold",
+            "effect": "Take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Metal",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-044": {
@@ -641,11 +1418,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-044",
-        "name": "Lapras",
         "illustrator": "Hitoshi Ariga",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/044",
+        "localId": "044",
+        "name": "Lapras",
         "rarity": "Two Diamond",
-        "description": "A smart and kindhearted Pok�mon, it glides across the surface of the sea while its beautiful song echoes around it.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           131
         ],
@@ -653,7 +1453,7 @@
         "types": [
           "Water"
         ],
-        "evolveFrom": "",
+        "description": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
         "stage": "Basic",
         "attacks": [
           {
@@ -673,7 +1473,25 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-045": {
@@ -682,13 +1500,74 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-045",
-        "name": "Popplio",
         "illustrator": "Kanami Ogata",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/045",
+        "localId": "045",
+        "name": "Popplio",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          728
+        ],
+        "hp": 60,
+        "types": [
+          "Water"
+        ],
         "description": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Sing",
+            "effect": "Your opponent's Active Pokémon is now Asleep."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Lightning",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-047": {
@@ -697,11 +1576,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-047",
-        "name": "Brionne",
         "illustrator": "Saya Tsuruta",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/047",
+        "localId": "047",
+        "name": "Brionne",
         "rarity": "Two Diamond",
-        "description": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           729
         ],
@@ -710,6 +1612,7 @@
           "Water"
         ],
         "evolveFrom": "Popplio",
+        "description": "It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -727,7 +1630,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-052": {
@@ -736,11 +1653,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-052",
-        "name": "Dewpider",
         "illustrator": "Atsuko Nishida",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/052",
+        "localId": "052",
+        "name": "Dewpider",
         "rarity": "One Diamond",
-        "description": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           751
         ],
@@ -748,7 +1688,7 @@
         "types": [
           "Water"
         ],
-        "evolveFrom": "",
+        "description": "It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.",
         "stage": "Basic",
         "attacks": [
           {
@@ -767,7 +1707,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-053": {
@@ -776,13 +1730,78 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-053",
-        "name": "Araquanid",
         "illustrator": "kodama",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/053",
+        "localId": "053",
+        "name": "Araquanid",
         "rarity": "Two Diamond",
-        "description": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pok�mon can then take its time to savor its meal.",
-        "effect": "",
-        "trainerType": ""
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          752
+        ],
+        "hp": 110,
+        "types": [
+          "Water"
+        ],
+        "evolveFrom": "Dewpider",
+        "description": "It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Water",
+              "Water",
+              "Colorless"
+            ],
+            "name": "Dangerous Claws",
+            "effect": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 60 more damage.",
+            "damage": "60+"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Lightning",
+            "value": "+20"
+          }
+        ],
+        "retreat": 2,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-054": {
@@ -791,11 +1810,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-054",
-        "name": "Pyukumuku",
         "illustrator": "You Iribi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/054",
+        "localId": "054",
+        "name": "Pyukumuku",
         "rarity": "One Diamond",
-        "description": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           771
         ],
@@ -803,8 +1845,15 @@
         "types": [
           "Water"
         ],
-        "evolveFrom": "",
+        "description": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
         "stage": "Basic",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Innards Out",
+            "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+          }
+        ],
         "attacks": [
           {
             "cost": [
@@ -821,7 +1870,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-055": {
@@ -830,11 +1893,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-055",
-        "name": "Bruxish",
         "illustrator": "Masakazu Fukuda",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/055",
+        "localId": "055",
+        "name": "Bruxish",
         "rarity": "One Diamond",
-        "description": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           779
         ],
@@ -842,7 +1928,7 @@
         "types": [
           "Water"
         ],
-        "evolveFrom": "",
+        "description": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
         "stage": "Basic",
         "attacks": [
           {
@@ -861,7 +1947,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-057": {
@@ -870,11 +1974,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-057",
-        "name": "Pikachu",
         "illustrator": "Naoyo Kimura",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/057",
+        "localId": "057",
+        "name": "Pikachu",
         "rarity": "One Diamond",
-        "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           25
         ],
@@ -882,7 +2009,7 @@
         "types": [
           "Lightning"
         ],
-        "evolveFrom": "",
+        "description": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
         "stage": "Basic",
         "attacks": [
           {
@@ -901,7 +2028,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-061": {
@@ -910,11 +2051,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-061",
-        "name": "Alolan Golem",
         "illustrator": "kawayoo",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/061",
+        "localId": "061",
+        "name": "Alolan Golem",
         "rarity": "Three Diamond",
-        "description": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           76
         ],
@@ -923,6 +2087,7 @@
           "Lightning"
         ],
         "evolveFrom": "Alolan Graveler",
+        "description": "It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.",
         "stage": "Stage2",
         "attacks": [
           {
@@ -933,6 +2098,7 @@
               "Colorless"
             ],
             "name": "Super Zap Cannon",
+            "effect": "Discard 2 {L} Energy from this Pokémon.",
             "damage": 150
           }
         ],
@@ -943,7 +2109,21 @@
           }
         ],
         "retreat": 4,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-062": {
@@ -952,11 +2132,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-062",
-        "name": "Helioptile",
         "illustrator": "0313",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/062",
+        "localId": "062",
+        "name": "Helioptile",
         "rarity": "One Diamond",
-        "description": "When spread, the frills on its head act like solar panels, generating the power behind this Pok�mon's electric moves.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           694
         ],
@@ -964,7 +2167,7 @@
         "types": [
           "Lightning"
         ],
-        "evolveFrom": "",
+        "description": "When spread, the frills on its head act like solar panels, generating the power behind this Pokémon's electric moves.",
         "stage": "Basic",
         "attacks": [
           {
@@ -982,7 +2185,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-064": {
@@ -991,11 +2212,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-064",
-        "name": "Charjabug",
         "illustrator": "Naoki Saito",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/064",
+        "localId": "064",
+        "name": "Charjabug",
         "rarity": "Two Diamond",
-        "description": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           737
         ],
@@ -1004,6 +2248,7 @@
           "Lightning"
         ],
         "evolveFrom": "Grubbin",
+        "description": "While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1021,7 +2266,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-070": {
@@ -1030,11 +2289,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-070",
-        "name": "Sableye",
         "illustrator": "Aya Kusube",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/070",
+        "localId": "070",
+        "name": "Sableye",
         "rarity": "Two Diamond",
-        "description": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           302
         ],
@@ -1042,7 +2324,7 @@
         "types": [
           "Psychic"
         ],
-        "evolveFrom": "",
+        "description": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1051,6 +2333,7 @@
               "Colorless"
             ],
             "name": "Corner",
+            "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
             "damage": 40
           }
         ],
@@ -1061,7 +2344,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-071": {
@@ -1070,13 +2371,78 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-071",
-        "name": "Spoink",
         "illustrator": "Sekio",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/071",
+        "localId": "071",
+        "name": "Spoink",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          325
+        ],
+        "hp": 60,
+        "types": [
+          "Psychic"
+        ],
         "description": "Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Psychic"
+            ],
+            "name": "Psycharge",
+            "effect": "Take a {P} Energy from your Energy Zone and attach it to this Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Darkness",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-072": {
@@ -1085,11 +2451,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-072",
-        "name": "Grumpig",
         "illustrator": "Yukiko Baba",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/072",
+        "localId": "072",
+        "name": "Grumpig",
         "rarity": "Two Diamond",
-        "description": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           326
         ],
@@ -1098,6 +2487,7 @@
           "Psychic"
         ],
         "evolveFrom": "Spoink",
+        "description": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1117,7 +2507,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-073": {
@@ -1126,11 +2534,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-073",
-        "name": "Lunatone",
         "illustrator": "Hisao Nakamura",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/073",
+        "localId": "073",
+        "name": "Lunatone",
         "rarity": "One Diamond",
-        "description": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           337
         ],
@@ -1138,7 +2569,7 @@
         "types": [
           "Psychic"
         ],
-        "evolveFrom": "",
+        "description": "The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1157,7 +2588,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-074": {
@@ -1166,11 +2611,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-074",
-        "name": "Shuppet",
         "illustrator": "Kyoko Umemoto",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/074",
+        "localId": "074",
+        "name": "Shuppet",
         "rarity": "One Diamond",
-        "description": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           353
         ],
@@ -1178,7 +2646,7 @@
         "types": [
           "Psychic"
         ],
-        "evolveFrom": "",
+        "description": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1196,7 +2664,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-075": {
@@ -1205,11 +2691,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-075",
-        "name": "Banette",
         "illustrator": "Aya Kusube",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/075",
+        "localId": "075",
+        "name": "Banette",
         "rarity": "One Diamond",
-        "description": "This Pok�mon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           354
         ],
@@ -1218,6 +2727,7 @@
           "Psychic"
         ],
         "evolveFrom": "Shuppet",
+        "description": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1225,6 +2735,7 @@
               "Psychic"
             ],
             "name": "Night Bind",
+            "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.",
             "damage": 30
           }
         ],
@@ -1235,7 +2746,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-076": {
@@ -1244,11 +2773,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-076",
-        "name": "Oricorio",
         "illustrator": "Jerky",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/076",
+        "localId": "076",
+        "name": "Oricorio",
         "rarity": "Two Diamond",
-        "description": "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           741
         ],
@@ -1256,7 +2808,7 @@
         "types": [
           "Psychic"
         ],
-        "evolveFrom": "",
+        "description": "This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1265,6 +2817,7 @@
               "Psychic"
             ],
             "name": "Dazzle Dance",
+            "effect": "Your opponent's Active Pokémon is now Confused.",
             "damage": 40
           }
         ],
@@ -1275,7 +2828,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-077": {
@@ -1284,13 +2851,75 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-077",
-        "name": "Oricorio",
         "illustrator": "Jerky",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/077",
+        "localId": "077",
+        "name": "Oricorio",
         "rarity": "Two Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          741
+        ],
+        "hp": 70,
+        "types": [
+          "Psychic"
+        ],
         "description": "This form of Oricorio has sipped purple nectar. It uses ethereal dance steps to call forth the spirits of the dead.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Psychic"
+            ],
+            "name": "Spiteful Dance",
+            "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+            "damage": "20+"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Darkness",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-079": {
@@ -1299,11 +2928,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-079",
-        "name": "Ribombee",
         "illustrator": "Megumi Mizutani",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/079",
+        "localId": "079",
+        "name": "Ribombee",
         "rarity": "One Diamond",
-        "description": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           743
         ],
@@ -1312,6 +2964,7 @@
           "Psychic"
         ],
         "evolveFrom": "Cutiefly",
+        "description": "It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1329,7 +2982,21 @@
           }
         ],
         "retreat": 0,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-081": {
@@ -1338,11 +3005,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-081",
-        "name": "Sandygast",
         "illustrator": "Akira Komayama",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/081",
+        "localId": "081",
+        "name": "Sandygast",
         "rarity": "One Diamond",
-        "description": "If it loses its shovel, it will stick something else�like a branch�in its head to make do until it finds another shovel.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           769
         ],
@@ -1350,7 +3040,7 @@
         "types": [
           "Psychic"
         ],
-        "evolveFrom": "",
+        "description": "If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1369,7 +3059,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-085": {
@@ -1378,13 +3082,78 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-085",
-        "name": "Cosmog",
         "illustrator": "sui",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/085",
+        "localId": "085",
+        "name": "Cosmog",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          789
+        ],
+        "hp": 60,
+        "types": [
+          "Psychic"
+        ],
         "description": "Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn't seem to care.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Colorless"
+            ],
+            "name": "Teleport",
+            "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Darkness",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-086": {
@@ -1393,13 +3162,80 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-086",
-        "name": "Cosmoem",
         "illustrator": "Aya Kusube",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/086",
+        "localId": "086",
+        "name": "Cosmoem",
         "rarity": "Two Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          790
+        ],
+        "hp": 100,
+        "types": [
+          "Psychic"
+        ],
+        "evolveFrom": "Cosmog",
         "description": "The king who ruled Alola in times of antiquity called it\nthe “cocoon of the stars” and built an altar to worship it.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Colorless",
+              "Colorless"
+            ],
+            "name": "Stiffen",
+            "effect": "During your opponent's next turn, this Pokémon takes −50 damage from attacks."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Darkness",
+            "value": "+20"
+          }
+        ],
+        "retreat": 3,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-088": {
@@ -1408,11 +3244,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-088",
-        "name": "Necrozma",
         "illustrator": "Masakazu Fukuda",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/088",
+        "localId": "088",
+        "name": "Necrozma",
         "rarity": "Three Diamond",
-        "description": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           800
         ],
@@ -1420,7 +3279,7 @@
         "types": [
           "Psychic"
         ],
-        "evolveFrom": "",
+        "description": "It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1431,6 +3290,7 @@
               "Colorless"
             ],
             "name": "Prismatic Laser",
+            "effect": "During your next turn, this Pokémon can't attack.",
             "damage": 120
           }
         ],
@@ -1441,7 +3301,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-089": {
@@ -1450,11 +3324,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-089",
-        "name": "Cubone",
         "illustrator": "kawayoo",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/089",
+        "localId": "089",
+        "name": "Cubone",
         "rarity": "One Diamond",
-        "description": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           104
         ],
@@ -1462,7 +3359,7 @@
         "types": [
           "Fighting"
         ],
-        "evolveFrom": "",
+        "description": "When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1481,7 +3378,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-091": {
@@ -1490,11 +3401,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-091",
-        "name": "Hariyama",
         "illustrator": "Miki Tanaka",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/091",
+        "localId": "091",
+        "name": "Hariyama",
         "rarity": "Two Diamond",
-        "description": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           297
         ],
@@ -1503,6 +3437,7 @@
           "Fighting"
         ],
         "evolveFrom": "Makuhita",
+        "description": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1511,6 +3446,7 @@
               "Colorless"
             ],
             "name": "Push Out",
+            "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
             "damage": 50
           }
         ],
@@ -1521,7 +3457,25 @@
           }
         ],
         "retreat": 3,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-093": {
@@ -1530,11 +3484,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-093",
-        "name": "Drilbur",
         "illustrator": "Tomokazu Komiya",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/093",
+        "localId": "093",
+        "name": "Drilbur",
         "rarity": "One Diamond",
-        "description": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           529
         ],
@@ -1542,7 +3519,7 @@
         "types": [
           "Fighting"
         ],
-        "evolveFrom": "",
+        "description": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1560,7 +3537,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-094": {
@@ -1569,11 +3564,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-094",
-        "name": "Timburr",
         "illustrator": "Mizue",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/094",
+        "localId": "094",
+        "name": "Timburr",
         "rarity": "One Diamond",
-        "description": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           532
         ],
@@ -1581,7 +3599,7 @@
         "types": [
           "Fighting"
         ],
-        "evolveFrom": "",
+        "description": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1599,7 +3617,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-095": {
@@ -1608,11 +3640,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-095",
-        "name": "Gurdurr",
         "illustrator": "Naoki Saito",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/095",
+        "localId": "095",
+        "name": "Gurdurr",
         "rarity": "Two Diamond",
-        "description": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           533
         ],
@@ -1621,6 +3676,7 @@
           "Fighting"
         ],
         "evolveFrom": "Timburr",
+        "description": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1639,7 +3695,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-096": {
@@ -1648,11 +3718,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-096",
-        "name": "Conkeldurr",
         "illustrator": "kawayoo",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/096",
+        "localId": "096",
+        "name": "Conkeldurr",
         "rarity": "Three Diamond",
-        "description": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           534
         ],
@@ -1661,7 +3754,15 @@
           "Fighting"
         ],
         "evolveFrom": "Gurdurr",
+        "description": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
         "stage": "Stage2",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Guts",
+            "effect": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10."
+          }
+        ],
         "attacks": [
           {
             "cost": [
@@ -1680,7 +3781,21 @@
           }
         ],
         "retreat": 3,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-097": {
@@ -1689,11 +3804,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-097",
-        "name": "Crabrawler",
         "illustrator": "kirisAki",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/097",
+        "localId": "097",
+        "name": "Crabrawler",
         "rarity": "One Diamond",
-        "description": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           739
         ],
@@ -1701,7 +3839,7 @@
         "types": [
           "Fighting"
         ],
-        "evolveFrom": "",
+        "description": "This Pokémon punches trees and eats the berries that drop down, training itself and getting food at the same time.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1719,7 +3857,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-098": {
@@ -1728,13 +3880,74 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-098",
-        "name": "Rockruff",
         "illustrator": "Oswaldo KATO",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/098",
+        "localId": "098",
+        "name": "Rockruff",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          744
+        ],
+        "hp": 60,
+        "types": [
+          "Fighting"
+        ],
         "description": "This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Fighting"
+            ],
+            "name": "Signs of Evolution",
+            "effect": "Put a random card that evolves from Rockruff from your deck into your hand."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Grass",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-101": {
@@ -1743,13 +3956,77 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-101",
-        "name": "Lycanroc",
         "illustrator": "5ban Graphics",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/101",
+        "localId": "101",
+        "name": "Lycanroc",
         "rarity": "Three Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          745
+        ],
+        "hp": 100,
+        "types": [
+          "Fighting"
+        ],
+        "evolveFrom": "Rockruff",
         "description": "This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Fighting",
+              "Fighting"
+            ],
+            "name": "Blood Fang",
+            "effect": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage.",
+            "damage": "50+"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Grass",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-103": {
@@ -1758,11 +4035,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-103",
-        "name": "Mudsdale",
         "illustrator": "Takeshi Nakamura",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/103",
+        "localId": "103",
+        "name": "Mudsdale",
         "rarity": "Two Diamond",
-        "description": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           750
         ],
@@ -1771,6 +4071,7 @@
           "Fighting"
         ],
         "evolveFrom": "Mudbray",
+        "description": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -1781,6 +4082,7 @@
               "Colorless"
             ],
             "name": "High Horsepower",
+            "effect": "This Pokémon also does 40 damage to itself.",
             "damage": 140
           }
         ],
@@ -1791,7 +4093,21 @@
           }
         ],
         "retreat": 4,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-104": {
@@ -1800,11 +4116,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-104",
-        "name": "Passimian ex",
         "illustrator": "PLANETA Tsuji",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/104",
+        "localId": "104",
+        "name": "Passimian ex",
         "rarity": "Four Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           766
         ],
@@ -1812,8 +4151,15 @@
         "types": [
           "Fighting"
         ],
-        "evolveFrom": "",
         "stage": "Basic",
+        "suffix": "EX",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Offload Pass",
+            "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all {F} Energy from this Pokémon to 1 of your Benched Pokémon."
+          }
+        ],
         "attacks": [
           {
             "cost": [
@@ -1831,7 +4177,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-105": {
@@ -1840,13 +4200,75 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-105",
-        "name": "Minior",
         "illustrator": "Amelicart",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/105",
+        "localId": "105",
+        "name": "Minior",
         "rarity": "Two Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          774
+        ],
+        "hp": 80,
+        "types": [
+          "Fighting"
+        ],
         "description": "Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Fighting",
+              "Fighting"
+            ],
+            "name": "Star Drop",
+            "effect": "This attack does 40 damage to 1 of your opponent's Pokémon."
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Grass",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-106": {
@@ -1855,11 +4277,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-106",
-        "name": "Alolan Rattata",
         "illustrator": "nagimiso",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/106",
+        "localId": "106",
+        "name": "Alolan Rattata",
         "rarity": "One Diamond",
-        "description": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           19
         ],
@@ -1867,7 +4312,7 @@
         "types": [
           "Darkness"
         ],
-        "evolveFrom": "",
+        "description": "It shows no interest in anything that isn't fresh. If you take it shopping with you, it will help you pick out ingredients.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1885,7 +4330,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-108": {
@@ -1894,11 +4353,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-108",
-        "name": "Alolan Meowth",
         "illustrator": "sui",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/108",
+        "localId": "108",
+        "name": "Alolan Meowth",
         "rarity": "One Diamond",
-        "description": "It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           52
         ],
@@ -1906,7 +4388,7 @@
         "types": [
           "Darkness"
         ],
-        "evolveFrom": "",
+        "description": "It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1924,7 +4406,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-110": {
@@ -1933,11 +4429,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-110",
-        "name": "Alolan Grimer",
         "illustrator": "Akira Komayama",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/110",
+        "localId": "110",
+        "name": "Alolan Grimer",
         "rarity": "One Diamond",
-        "description": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           88
         ],
@@ -1945,7 +4464,7 @@
         "types": [
           "Darkness"
         ],
-        "evolveFrom": "",
+        "description": "There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.",
         "stage": "Basic",
         "attacks": [
           {
@@ -1964,7 +4483,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-112": {
@@ -1973,13 +4506,76 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-112",
-        "name": "Absol",
         "illustrator": "Anesaki Dynamic",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/112",
+        "localId": "112",
+        "name": "Absol",
         "rarity": "Three Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          359
+        ],
+        "hp": 80,
+        "types": [
+          "Darkness"
+        ],
         "description": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Darkness",
+              "Colorless"
+            ],
+            "name": "Unseen Claw",
+            "effect": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+            "damage": "20+"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Grass",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-113": {
@@ -1988,11 +4584,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-113",
-        "name": "Trubbish",
         "illustrator": "Tomokazu Komiya",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/113",
+        "localId": "113",
+        "name": "Trubbish",
         "rarity": "One Diamond",
-        "description": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           568
         ],
@@ -2000,7 +4619,7 @@
         "types": [
           "Darkness"
         ],
-        "evolveFrom": "",
+        "description": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2018,7 +4637,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-114": {
@@ -2027,11 +4664,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-114",
-        "name": "Garbodor",
         "illustrator": "match",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/114",
+        "localId": "114",
+        "name": "Garbodor",
         "rarity": "Two Diamond",
-        "description": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           569
         ],
@@ -2040,6 +4700,7 @@
           "Darkness"
         ],
         "evolveFrom": "Trubbish",
+        "description": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -2049,6 +4710,7 @@
               "Colorless"
             ],
             "name": "Super Poison Breath",
+            "effect": "Your opponent's Active Pokémon is now Poisoned.",
             "damage": 70
           }
         ],
@@ -2059,7 +4721,25 @@
           }
         ],
         "retreat": 3,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-115": {
@@ -2068,11 +4748,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-115",
-        "name": "Mareanie",
         "illustrator": "Saya Tsuruta",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/115",
+        "localId": "115",
+        "name": "Mareanie",
         "rarity": "One Diamond",
-        "description": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           747
         ],
@@ -2080,7 +4783,7 @@
         "types": [
           "Darkness"
         ],
-        "evolveFrom": "",
+        "description": "This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2098,7 +4801,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-116": {
@@ -2107,13 +4824,76 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-116",
-        "name": "Toxapex",
         "illustrator": "chibi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/116",
+        "localId": "116",
+        "name": "Toxapex",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          748
+        ],
+        "hp": 110,
+        "types": [
+          "Darkness"
+        ],
+        "evolveFrom": "Mareanie",
         "description": "This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Darkness"
+            ],
+            "name": "Spike Cannon",
+            "effect": "Flip 4 coins. This attack does 20 damage for each heads.",
+            "damage": "20x"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fighting",
+            "value": "+20"
+          }
+        ],
+        "retreat": 2,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-117": {
@@ -2122,11 +4902,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-117",
-        "name": "Alolan Diglett",
         "illustrator": "Naoyo Kimura",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/117",
+        "localId": "117",
+        "name": "Alolan Diglett",
         "rarity": "One Diamond",
-        "description": "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           50
         ],
@@ -2134,7 +4937,7 @@
         "types": [
           "Metal"
         ],
-        "evolveFrom": "",
+        "description": "The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2152,7 +4955,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-118": {
@@ -2161,13 +4982,81 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-118",
-        "name": "Alolan Dugtrio",
         "illustrator": "Yuka Morii",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/118",
+        "localId": "118",
+        "name": "Alolan Dugtrio",
         "rarity": "One Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          51
+        ],
+        "hp": 90,
+        "types": [
+          "Metal"
+        ],
+        "evolveFrom": "Alolan Diglett",
         "description": "Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Metal",
+              "Metal"
+            ],
+            "name": "Iron Head",
+            "effect": "Flip a coin until you get tails. This attack does 70 damage for each heads.",
+            "damage": "70x"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fire",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-120": {
@@ -2176,11 +5065,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-120",
-        "name": "Escavalier",
         "illustrator": "Satoshi Shirai",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/120",
+        "localId": "120",
+        "name": "Escavalier",
         "rarity": "Two Diamond",
-        "description": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           589
         ],
@@ -2189,6 +5101,7 @@
           "Metal"
         ],
         "evolveFrom": "Karrablast",
+        "description": "Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -2196,6 +5109,7 @@
               "Metal"
             ],
             "name": "Pike",
+            "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
             "damage": 30
           }
         ],
@@ -2206,7 +5120,25 @@
           }
         ],
         "retreat": 3,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-121": {
@@ -2215,11 +5147,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-121",
-        "name": "Klefki",
         "illustrator": "Shin Nagasawa",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/121",
+        "localId": "121",
+        "name": "Klefki",
         "rarity": "Three Diamond",
-        "description": "Once it absorbs a key's metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           707
         ],
@@ -2227,7 +5182,7 @@
         "types": [
           "Metal"
         ],
-        "evolveFrom": "",
+        "description": "Once it absorbs a key's metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2235,6 +5190,7 @@
               "Metal"
             ],
             "name": "Unlock",
+            "effect": "Draw a card.",
             "damage": 10
           }
         ],
@@ -2245,7 +5201,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-122": {
@@ -2254,11 +5224,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-122",
-        "name": "Solgaleo ex",
         "illustrator": "PLANETA CG Works",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/122",
+        "localId": "122",
+        "name": "Solgaleo ex",
         "rarity": "Four Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           791
         ],
@@ -2268,6 +5261,14 @@
         ],
         "evolveFrom": "Cosmoem",
         "stage": "Stage2",
+        "suffix": "EX",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Rising Road",
+            "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+          }
+        ],
         "attacks": [
           {
             "cost": [
@@ -2275,6 +5276,7 @@
               "Metal"
             ],
             "name": "Sol Breaker",
+            "effect": "This Pokémon also does 10 damage to itself.",
             "damage": 120
           }
         ],
@@ -2285,7 +5287,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-124": {
@@ -2294,13 +5310,70 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-124",
-        "name": "Drampa",
         "illustrator": "Anesaki Dynamic",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/124",
+        "localId": "124",
+        "name": "Drampa",
         "rarity": "Three Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          780
+        ],
+        "hp": 100,
+        "types": [
+          "Dragon"
+        ],
         "description": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Colorless",
+              "Colorless"
+            ],
+            "name": "Berserk",
+            "effect": "If any of your Benched Pokémon have damage on them, this attack does 50 more damage.",
+            "damage": "20+"
+          }
+        ],
+        "retreat": 2,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-126": {
@@ -2309,11 +5382,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-126",
-        "name": "Hakamo-o",
         "illustrator": "Ryuta Fuse",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/126",
+        "localId": "126",
+        "name": "Hakamo-o",
         "rarity": "Two Diamond",
-        "description": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           783
         ],
@@ -2322,6 +5418,7 @@
           "Dragon"
         ],
         "evolveFrom": "Jangmo-o",
+        "description": "The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -2333,9 +5430,22 @@
             "damage": 60
           }
         ],
-        "weaknesses": [],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-128": {
@@ -2344,13 +5454,81 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-128",
-        "name": "Tauros",
         "illustrator": "Kazumasa Yasukuni",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/128",
+        "localId": "128",
+        "name": "Tauros",
         "rarity": "Two Diamond",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          128
+        ],
+        "hp": 100,
+        "types": [
+          "Colorless"
+        ],
         "description": "When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Basic",
+        "attacks": [
+          {
+            "cost": [
+              "Colorless",
+              "Colorless",
+              "Colorless"
+            ],
+            "name": "Rising Lunge",
+            "effect": "Flip a coin. If heads, this attack does 50 more damage.",
+            "damage": "50+"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Fighting",
+            "value": "+20"
+          }
+        ],
+        "retreat": 2,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-129": {
@@ -2359,11 +5537,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-129",
-        "name": "Skitty",
         "illustrator": "Sumiyoshi Kizuki",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/129",
+        "localId": "129",
+        "name": "Skitty",
         "rarity": "One Diamond",
-        "description": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           300
         ],
@@ -2371,7 +5572,7 @@
         "types": [
           "Colorless"
         ],
-        "evolveFrom": "",
+        "description": "It can't stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2389,7 +5590,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-130": {
@@ -2398,11 +5617,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-130",
-        "name": "Delcatty",
         "illustrator": "0313",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/130",
+        "localId": "130",
+        "name": "Delcatty",
         "rarity": "Two Diamond",
-        "description": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           301
         ],
@@ -2411,6 +5653,7 @@
           "Colorless"
         ],
         "evolveFrom": "Skitty",
+        "description": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -2418,6 +5661,7 @@
               "Colorless"
             ],
             "name": "Energy Assist",
+            "effect": "Take a {C} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
             "damage": 30
           }
         ],
@@ -2428,7 +5672,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-133": {
@@ -2437,11 +5699,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-133",
-        "name": "Pikipek",
         "illustrator": "Shin Nagasawa",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/133",
+        "localId": "133",
+        "name": "Pikipek",
         "rarity": "One Diamond",
-        "description": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           731
         ],
@@ -2449,7 +5734,7 @@
         "types": [
           "Colorless"
         ],
-        "evolveFrom": "",
+        "description": "It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2467,7 +5752,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-134": {
@@ -2476,11 +5779,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-134",
-        "name": "Trumbeak",
         "illustrator": "Kouki Saitou",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/134",
+        "localId": "134",
+        "name": "Trumbeak",
         "rarity": "One Diamond",
-        "description": "It can bend the tip of its beak to produce over a hundred different cries at will.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           732
         ],
@@ -2489,6 +5815,7 @@
           "Colorless"
         ],
         "evolveFrom": "Pikipek",
+        "description": "It can bend the tip of its beak to produce over a hundred different cries at will.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -2506,7 +5833,25 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-136": {
@@ -2515,11 +5860,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-136",
-        "name": "Yungoos",
         "illustrator": "Shigenori Negishi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/136",
+        "localId": "136",
+        "name": "Yungoos",
         "rarity": "One Diamond",
-        "description": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           734
         ],
@@ -2527,7 +5895,7 @@
         "types": [
           "Colorless"
         ],
-        "evolveFrom": "",
+        "description": "Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2545,7 +5913,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-137": {
@@ -2554,11 +5936,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-137",
-        "name": "Gumshoos",
         "illustrator": "Shigenori Negishi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/137",
+        "localId": "137",
+        "name": "Gumshoos",
         "rarity": "One Diamond",
-        "description": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           735
         ],
@@ -2567,6 +5972,7 @@
           "Colorless"
         ],
         "evolveFrom": "Yungoos",
+        "description": "Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.",
         "stage": "Stage1",
         "attacks": [
           {
@@ -2585,7 +5991,21 @@
           }
         ],
         "retreat": 1,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-138": {
@@ -2594,11 +6014,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-138",
-        "name": "Stufful",
         "illustrator": "Sanosuke Sakuma",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/138",
+        "localId": "138",
+        "name": "Stufful",
         "rarity": "One Diamond",
-        "description": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           759
         ],
@@ -2606,7 +6049,7 @@
         "types": [
           "Colorless"
         ],
-        "evolveFrom": "",
+        "description": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
         "stage": "Basic",
         "attacks": [
           {
@@ -2626,7 +6069,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-141": {
@@ -2635,11 +6092,34 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-141",
-        "name": "Komala",
         "illustrator": "Kouki Saitou",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/141",
+        "localId": "141",
+        "name": "Komala",
         "rarity": "Two Diamond",
-        "description": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "dexId": [
           775
         ],
@@ -2647,8 +6127,15 @@
         "types": [
           "Colorless"
         ],
-        "evolveFrom": "",
+        "description": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
         "stage": "Basic",
+        "abilities": [
+          {
+            "type": "Ability",
+            "name": "Comatose",
+            "effect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+          }
+        ],
         "attacks": [
           {
             "cost": [
@@ -2666,7 +6153,21 @@
           }
         ],
         "retreat": 2,
-        "item": []
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-142": {
@@ -2675,13 +6176,55 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-142",
-        "name": "Big Malasada",
         "illustrator": "5ban Graphics",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/142",
+        "localId": "142",
+        "name": "Big Malasada",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Heal 10 damage and remove a random Special Condition from your Active Pokémon.",
-        "trainerType": "Item"
+        "trainerType": "Item",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-144": {
@@ -2690,13 +6233,55 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-144",
-        "name": "Rare Candy",
         "illustrator": "Toyste Beach",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/144",
+        "localId": "144",
+        "name": "Rare Candy",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
-        "trainerType": "Item"
+        "trainerType": "Item",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          },
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-147": {
@@ -2705,13 +6290,51 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-147",
-        "name": "Leaf Cape",
         "illustrator": "Toyste Beach",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/147",
+        "localId": "147",
+        "name": "Leaf Cape",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "The {G} Pokémon this card is attached to gets +30 HP.",
-        "trainerType": "Tool"
+        "trainerType": "Tool",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-148": {
@@ -2720,13 +6343,51 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-148",
-        "name": "Acerola",
         "illustrator": "Susumu Maeya",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/148",
+        "localId": "148",
+        "name": "Acerola",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Choose 1 of your Palossand or Mimikyu that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.",
-        "trainerType": "Supporter"
+        "trainerType": "Supporter",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-150": {
@@ -2735,13 +6396,51 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-150",
-        "name": "Kiawe",
         "illustrator": "Hideki Ishikawa",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/150",
+        "localId": "150",
+        "name": "Kiawe",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Choose 1 of your Alolan Marowak or Turtonator. Take 2 {R} Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.",
-        "trainerType": "Supporter"
+        "trainerType": "Supporter",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-151": {
@@ -2750,13 +6449,51 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-151",
-        "name": "Guzma",
         "illustrator": "GOSSAN",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/151",
+        "localId": "151",
+        "name": "Guzma",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.",
-        "trainerType": "Supporter"
+        "trainerType": "Supporter",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-154": {
@@ -2765,13 +6502,51 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-154",
-        "name": "Mallow",
         "illustrator": "En Morikura",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/154",
+        "localId": "154",
+        "name": "Mallow",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Heal all damage from 1 of your Shiinotic or Tsareena. If you do, discard all Energy from that Pokémon.",
-        "trainerType": "Supporter"
+        "trainerType": "Supporter",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-155": {
@@ -2780,13 +6555,51 @@
       "fullCardInfo": {
         "category": "Trainer",
         "id": "A3-155",
-        "name": "Lillie",
         "illustrator": "hechima",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/155",
+        "localId": "155",
+        "name": "Lillie",
         "rarity": "Two Diamond",
-        "description": "",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
         "effect": "Heal 60 damage from 1 of your Stage 2 Pokémon.",
-        "trainerType": "Supporter"
+        "trainerType": "Supporter",
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-solgaleo",
+            "name": "Solgaleo"
+          }
+        ],
+        "updated": "2025-05-18T00:53:26+02:00",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-160": {
@@ -2795,13 +6608,78 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-160",
-        "name": "Alolan Marowak",
         "illustrator": "Gemi",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/160",
+        "localId": "160",
+        "name": "Alolan Marowak",
         "rarity": "One Star",
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          105
+        ],
+        "hp": 110,
+        "types": [
+          "Fire"
+        ],
+        "evolveFrom": "Cubone",
         "description": "This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.",
-        "effect": "",
-        "trainerType": ""
+        "stage": "Stage1",
+        "attacks": [
+          {
+            "cost": [
+              "Fire",
+              "Fire",
+              "Colorless"
+            ],
+            "name": "Burning Bonemerang",
+            "effect": "Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now Burned.",
+            "damage": "70x"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Water",
+            "value": "+20"
+          }
+        ],
+        "retreat": 2,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "A3-236": {
@@ -2810,13 +6688,77 @@
       "fullCardInfo": {
         "category": "Pokemon",
         "id": "A3-236",
-        "name": "Marowak ex",
         "illustrator": "PLANETA Mochizuki",
         "image": "https://assets.tcgdex.net/en/tcgp/A3/236",
+        "localId": "236",
+        "name": "Marowak ex",
         "rarity": "Two Shiny",
-        "description": "",
-        "effect": "",
-        "trainerType": ""
+        "set": {
+          "cardCount": {
+            "official": 155,
+            "total": 239
+          },
+          "id": "A3",
+          "logo": "https://assets.tcgdex.net/en/tcgp/A3/logo",
+          "name": "Celestial Guardians"
+        },
+        "variants": {
+          "firstEdition": false,
+          "holo": false,
+          "normal": true,
+          "reverse": false,
+          "wPromo": false
+        },
+        "variants_detailed": [
+          {
+            "type": "normal",
+            "size": "standard",
+            "variantId": "generated"
+          }
+        ],
+        "dexId": [
+          105
+        ],
+        "hp": 140,
+        "types": [
+          "Fighting"
+        ],
+        "evolveFrom": "Cubone",
+        "stage": "Stage1",
+        "suffix": "EX",
+        "attacks": [
+          {
+            "cost": [
+              "Fighting",
+              "Fighting"
+            ],
+            "name": "Bonemerang",
+            "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
+            "damage": "80x"
+          }
+        ],
+        "weaknesses": [
+          {
+            "type": "Grass",
+            "value": "+20"
+          }
+        ],
+        "retreat": 1,
+        "legal": {
+          "standard": false,
+          "expanded": false
+        },
+        "boosters": [
+          {
+            "id": "boo_A3-lunala",
+            "name": "Lunala"
+          }
+        ],
+        "updated": "2026-03-06T14:10:14Z",
+        "pricing": {
+          "cardmarket": null,
+          "tcgplayer": null
+        }
       }
     },
     "B1a-001": {
